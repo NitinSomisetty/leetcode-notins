@@ -9,12 +9,15 @@ bool isPalindrome(char* s) {
     for (int i = 0; s[i]; i++)
         if (isalnum(s[i]))
             clean[j++] = tolower(s[i]);
-    clean[j] = '\0';
+    clean[j] = '\0'; //only to find the end wrt j
 
-    for (int l = 0, r = j - 1; l < r; l++, r--) 
+    for(int left=0,right=j-1;left<right;left++,right--)
     {
-    if (clean[l] != clean[r]) 
-    {return false;}
+        if (clean[left] != clean[right]) //cmpare the same array
+        {
+            return false;
+        }
+
     }
     return true;
 }
