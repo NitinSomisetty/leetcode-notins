@@ -3,6 +3,5 @@ class Solution:
         set_not=set(nums)
         if(len(set_not)==len(nums)):
             return False
-        else:
-            return True
+        return True
         
