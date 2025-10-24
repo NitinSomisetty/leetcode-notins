@@ -1,8 +1,12 @@
+#include <stdbool.h>
+#include <string.h>
+
 bool isValid(char* s) 
 {
-    char stack[strlen(s)];
+    int len=strlen(s);
+    char stack[len];
     int top=-1;
-    for(int i=0;i<=strlen(s);i++)
+    for(int i=0;i<=len;i++)
     {
         if(s[i]=='[' ||s[i]== '{' ||s[i]== '(')
         {
