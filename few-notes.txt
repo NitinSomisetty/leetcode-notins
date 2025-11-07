@@ -1,0 +1,2 @@
+Question to do after learning Hash and hash tables:
+1,3
