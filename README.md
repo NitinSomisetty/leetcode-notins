@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NitinSomisetty/leetcode-notins/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NitinSomisetty/leetcode-notins/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NitinSomisetty/leetcode-notins/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/NitinSomisetty/leetcode-notins/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/NitinSomisetty/leetcode-notins/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/NitinSomisetty/leetcode-notins/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/NitinSomisetty/leetcode-notins/tree/master/0682-baseball-game) |
@@ -72,9 +73,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/NitinSomisetty/leetcode-notins/tree/master/0204-count-primes) |
 | [1492-the-kth-factor-of-n](https://github.com/NitinSomisetty/leetcode-notins/tree/master/1492-the-kth-factor-of-n) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/NitinSomisetty/leetcode-notins/tree/master/0204-count-primes) |
 | [1492-the-kth-factor-of-n](https://github.com/NitinSomisetty/leetcode-notins/tree/master/1492-the-kth-factor-of-n) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/NitinSomisetty/leetcode-notins/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
